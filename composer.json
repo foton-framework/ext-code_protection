@@ -1,5 +1,5 @@
 {
-    "name":    "foton/codeprotection",
+    "name":    "foton/code_protection",
     "type":    "foton-extension",
     "license":  "MIT",
     "require": {
